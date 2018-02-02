@@ -18,6 +18,7 @@ public class HolaMundo {
         // TODO code application logic here
         System.out.println("cada vez que hacemos un cambio , git add -A, para agregar cambios a github");
         System.out.println("Despues procedemos hacer git commit -m segido de un mensaje de lo que hiciste");
+        System.out.println("finalmente para evr los cambios en github, hacemos git push origin maste repitiendo el paso 1 y 2");
     }
     
 }
